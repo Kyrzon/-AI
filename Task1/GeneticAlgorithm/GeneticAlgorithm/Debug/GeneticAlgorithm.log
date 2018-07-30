@@ -1,0 +1,24 @@
+﻿Сборка начата 07.04.2015 12:46:56.
+     1>Проект "C:\Users\Василий\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bitarray.cpp main.cpp
+         main.cpp
+     1>c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\main.cpp(47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\population.hpp(122): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+                 c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\population.hpp(121): при компиляции функции-члена "CPopulation<CChomosomeChessboard64x64>::CPopulation(int,float,float)" класса шаблон
+                 c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\main.cpp(47): см. ссылку на создание экземпляров функции шаблон при компиляции "CPopulation<CChomosomeChessboard64x64>::CPopulation(int,float,float)"
+                 c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\main.cpp(47): см. ссылку на создание экземпляров класса шаблон при компиляции "CPopulation<CChomosomeChessboard64x64>"
+     1>c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\population.hpp(126): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\main.cpp(123): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+                 c:\users\василий\desktop\geneticalgorithm\geneticalgorithm\main.cpp(196): см. ссылку на создание экземпляров функции шаблон при компиляции "int TestGeneticAlgorithm<CChomosomeChessboard64x64>(char *,bool,double,int,int,char,char,char,char,char,char)"
+         bitarray.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Василий\Desktop\GeneticAlgorithm\Debug\GeneticAlgorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Василий\Desktop\GeneticAlgorithm\Debug\GeneticAlgorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Василий\Desktop\GeneticAlgorithm\Debug\GeneticAlgorithm.lib" /MACHINE:X86 Debug\bitarray.obj
+         Debug\main.obj
+         GeneticAlgorithm.vcxproj -> C:\Users\Василий\Desktop\GeneticAlgorithm\Debug\GeneticAlgorithm.exe
+     1>Сборка проекта "C:\Users\Василий\Desktop\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.26
