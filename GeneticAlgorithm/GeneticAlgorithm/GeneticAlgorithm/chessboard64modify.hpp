@@ -1,16 +1,4 @@
-/*
- * chessboard64modify.cpp
- *
- *  Created on: Mar 22, 2015
- *      Author: cvstudent
- */
 
-/*
- * chessboard64.hpp
- *
- *  Created on: Mar 13, 2015
- *      Author: cvstudent
- */
 
 #ifndef CHESSBOARD64MODIFY_HPP_
 #define CHESSBOARD64MODIFY_HPP_

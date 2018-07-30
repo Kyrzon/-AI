@@ -1,9 +1,4 @@
-/*
- * population.hpp
- *
- *  Created on: Mar 2, 2015
- *      Author: cvstudent
- */
+
 
 #ifndef POPULATION_HPP_
 #define POPULATION_HPP_

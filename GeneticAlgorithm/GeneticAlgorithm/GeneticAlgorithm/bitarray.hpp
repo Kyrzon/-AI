@@ -1,9 +1,4 @@
-/*
- * bitarray.hpp
- *
- *  Created on: Mar 2, 2015
- *      Author: cvstudent
- */
+
 
 #ifndef BITARRAY_HPP_
 #define BITARRAY_HPP_

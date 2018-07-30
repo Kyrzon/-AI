@@ -1,9 +1,4 @@
-/*
- * ichomosome.hpp
- *
- *  Created on: Mar 2, 2015
- *      Author: cvstudent
- */
+
 
 #ifndef ICHOMOSOME_HPP_
 #define ICHOMOSOME_HPP_

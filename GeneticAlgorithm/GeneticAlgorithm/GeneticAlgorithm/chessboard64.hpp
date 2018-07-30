@@ -1,9 +1,4 @@
-/*
- * chessboard64.hpp
- *
- *  Created on: Mar 13, 2015
- *      Author: cvstudent
- */
+
 
 #ifndef CHESSBOARD64_HPP_
 #define CHESSBOARD64_HPP_

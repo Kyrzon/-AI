@@ -1,9 +1,4 @@
-/*
- * chessboard8.hpp
- *
- *  Created on: Mar 2, 2015
- *      Author: cvstudent
- */
+
 
 #ifndef CHESSBOARD8_HPP_
 #define CHESSBOARD8_HPP_

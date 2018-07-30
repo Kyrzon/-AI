@@ -1,9 +1,3 @@
-/*
- * bitarray.cpp
- *
- *  Created on: Mar 2, 2015
- *      Author: cvstudent
- */
 
 #include "bitarray.hpp"
 
