@@ -1,0 +1,33 @@
+﻿Сборка начата 04.06.2015 15:37:13.
+     1>Проект "Y:\Учёба\Учёба\AI\Task2\Agents\Agents\Agents.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessAgent.hpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessAgent.hpp(62): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessAgent.hpp(63): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessAgent.hpp(81): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoard.hpp(89): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoard.hpp(110): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoard.hpp(114): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoard.hpp(125): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoard.hpp(125): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoard.hpp(152): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoardAgent.hpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoardAgent.hpp(44): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoardAgent.hpp(63): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoardAgent.hpp(78): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoardAgent.hpp(111): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>y:\учёба\учёба\ai\task2\agents\agents\CChessBoardAgent.hpp(129): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+     1>main.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+     1>main.cpp(92): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Y:\Учёба\Учёба\AI\Task2\Agents\Release\Agents.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:\Учёба\Учёба\AI\Task2\Agents\Release\Agents.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:\Учёба\Учёба\AI\Task2\Agents\Release\Agents.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Создание кода
+         Создание кода завершено
+         Agents.vcxproj -> Y:\Учёба\Учёба\AI\Task2\Agents\Release\Agents.exe
+     1>Сборка проекта "Y:\Учёба\Учёба\AI\Task2\Agents\Agents\Agents.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.52
